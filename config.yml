@@ -1,0 +1,13 @@
+ #############################
+ # Permiss�o: X              #
+ # comandos : /fumar         #     
+ # Criador: yurirp4          #
+ # Skype: Filipe Silva amy   #
+ # version: 1.0              #
+ # plugin 70% Editavel      #
+ #############################
+money: 1000.0 
+# Quanto Vai Custa O Comando
+
+Player: '&2Você Fumou Uma maconha Braba'
+global: '&a{player} &2Fomou Uma Maconha e agora Doidão Fume Usando &a/fumar'
